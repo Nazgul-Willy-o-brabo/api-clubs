@@ -1,0 +1,20 @@
+{
+    "clubes": [
+      {
+        "id": 1,
+        "nome": "Clube de otakus",
+        "categoria": "entreterimento",
+        "quantIntegrantes": "10",
+        "descricao": "Assistir animizin"
+      }
+    ],
+    "usuarios": [
+      {
+        "id": "1",
+        "usuario": "savio",
+        "nome": "savio1",
+        "senha": "123456",
+        "ConfirmSenha": "123456"
+      }
+    ]
+  }
